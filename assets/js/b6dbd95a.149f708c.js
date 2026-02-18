@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdocs=globalThis.webpackChunkdocs||[]).push([[622],{7647(a){a.exports=JSON.parse('{"tags":[{"label":"launch","permalink":"/ohada-lib/blog/tags/launch","count":1},{"label":"ohada","permalink":"/ohada-lib/blog/tags/ohada","count":1},{"label":"typescript","permalink":"/ohada-lib/blog/tags/typescript","count":1}]}')}}]);

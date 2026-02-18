@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdocs=globalThis.webpackChunkdocs||[]).push([[472],{5513(a){a.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Launching ohada-lib: The Future of Programmable Accounting","permalink":"/ohada-lib/blog/launching-ohada-lib","unlisted":false,"date":"2026-02-16T00:00:00.000Z"}]}')}}]);

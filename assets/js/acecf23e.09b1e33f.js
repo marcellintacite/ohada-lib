@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdocs=globalThis.webpackChunkdocs||[]).push([[903],{1912(a){a.exports=JSON.parse('{"blogBasePath":"/ohada-lib/blog","blogTitle":"Blog","authorsListPath":"/ohada-lib/blog/authors"}')}}]);
